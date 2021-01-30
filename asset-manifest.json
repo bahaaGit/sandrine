@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/sandrine/static/css/main.aefe5dfe.chunk.css",
+    "main.js": "/sandrine/static/js/main.e136a467.chunk.js",
+    "main.js.map": "/sandrine/static/js/main.e136a467.chunk.js.map",
+    "runtime-main.js": "/sandrine/static/js/runtime-main.356ab2d3.js",
+    "runtime-main.js.map": "/sandrine/static/js/runtime-main.356ab2d3.js.map",
+    "static/css/2.86fbdad3.chunk.css": "/sandrine/static/css/2.86fbdad3.chunk.css",
+    "static/js/2.ff0301dc.chunk.js": "/sandrine/static/js/2.ff0301dc.chunk.js",
+    "static/js/2.ff0301dc.chunk.js.map": "/sandrine/static/js/2.ff0301dc.chunk.js.map",
+    "index.html": "/sandrine/index.html",
+    "static/css/2.86fbdad3.chunk.css.map": "/sandrine/static/css/2.86fbdad3.chunk.css.map",
+    "static/css/main.aefe5dfe.chunk.css.map": "/sandrine/static/css/main.aefe5dfe.chunk.css.map",
+    "static/js/2.ff0301dc.chunk.js.LICENSE.txt": "/sandrine/static/js/2.ff0301dc.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/sandrine/static/media/code.261bc3ea.jpeg",
+    "static/media/index.css": "/sandrine/static/media/coffee.91bd3865.jpeg",
+    "static/media/glam.8a9a71cf.jpeg": "/sandrine/static/media/glam.8a9a71cf.jpeg",
+    "static/media/prof.ed266beb.jpeg": "/sandrine/static/media/prof.ed266beb.jpeg",
+    "static/media/techy.db1db3c2.jpeg": "/sandrine/static/media/techy.db1db3c2.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.356ab2d3.js",
+    "static/css/2.86fbdad3.chunk.css",
+    "static/js/2.ff0301dc.chunk.js",
+    "static/css/main.aefe5dfe.chunk.css",
+    "static/js/main.e136a467.chunk.js"
+  ]
+}
